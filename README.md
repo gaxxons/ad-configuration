@@ -3,7 +3,7 @@
 </p>
 
 <h1>Azure Active Directory Deployment</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+The Azure Active Directory Domain Services (AAD DS) is Microsoft’s ‘managed domain’ service in Azure. It provides a subset of fully compatible traditional AD DS features such as domain join, group policy, DNS service, LDAP, and Kerberos / NTLM authentication.<br />
 
 
 <h2>Video Demonstration</h2>
